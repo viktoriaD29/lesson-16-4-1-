@@ -58,6 +58,6 @@ body {
   border: 3px #ff0000 solid;
 }
 
-.fullName {
+#userName {
   border: 1px #808080;
 }
