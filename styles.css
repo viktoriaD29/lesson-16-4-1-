@@ -54,10 +54,14 @@ body {
   color: white;
 }
 
-.form-input:invalid {
+/*.form-input:invalid {
+  border: 3px #ff0000 solid;
+}*/
+
+#password:invalid {
   border: 3px #ff0000 solid;
 }
 
-#userName {
-  border: 1px #808080;
+#email:invalid {
+  border: 3px #ff0000 solid;
 }
